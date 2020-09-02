@@ -10,7 +10,7 @@
 Este Projeto foi desenvolvido para fins acadêmicos através do evento OmniStack 10 da [Rocketseat](https://rocketseat.com.br/).
 
 <div>
-  <a href="https://cli.vuejs.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" height="50px" width="50px"></a>
+  <a href="https://pt-br.reactjs.org/"><img src="https://www.agap2-it.pt/media/h4gpk5wu/react.png" height="50px" width="110px"></a>
 </div>
 
 ## Getting Started
